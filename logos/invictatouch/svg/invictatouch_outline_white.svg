@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -34,7 +35,7 @@
      inkscape:window-maximized="1"
      inkscape:window-y="25"
      inkscape:window-x="0"
-     inkscape:cy="139.77464"
+     inkscape:cy="423.5588"
      inkscape:cx="243.36252"
      inkscape:zoom="1.1895833"
      showgrid="false"
@@ -633,6 +634,7 @@ Pgo8L3N2Zz4K
      height="300"
      id="image3343" />
   <g
+     style="fill:#ffffff"
      id="text3349"
      aria-label="InvictaTouch">
     <path
